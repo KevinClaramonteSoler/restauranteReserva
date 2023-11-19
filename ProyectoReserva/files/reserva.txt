@@ -1,0 +1,14 @@
+FECHA DE RESERVA
+================
+Nombre de la persona: a
+Número telefónico: 2
+Número de comensales: 2
+Horario de reserva: Comida
+Hora de reserva: 13:45
+Fecha de reserva: 22 del 11 del 2023
+---
+Pedido del primer comensal: a
+---
+Pedido del segundo comensal: a
+---
+¡Gracias por reservar!
